@@ -1,0 +1,1 @@
+document.write('Try again! Have fun!');
